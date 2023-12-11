@@ -38,35 +38,9 @@ Programs as part of the Database Management System Laboratory course in my 3rd y
     - **Description:** MongoDB with PyMongo - Insert and CRUD operations.
     - **Instructions:** Execute the Python script to interact with MongoDB.
 
-## Experiment 1
-
-### exp1.sql
-
-```sql
--- Experiment 1: Database Setup and DML Operations
-
--- ... (Content of exp1.sql)
-```
-
 ### Instructions
 
 1. Open your MySQL database environment.
-2. Execute the SQL statements in the `exp1.sql` file in the specified order.
-
-
-<!-- Repeat similar sections for each experiment -->
-
-## Experiment 7
-
-### exp7.sql
-
-```python
-# Experiment 7: MongoDB with PyMongo
-
-# ... (Content of exp7.py)
-```
-
-### Instructions
-
-1. Make sure you have PyMongo installed: `pip install pymongo`.
-2. Execute the Python script `exp1.py` to interact with MongoDB.
+2. Execute the SQL statements in the `exp(ProgramNumber).sql` file in the specified order.
+3. Make sure you have PyMongo installed: `pip install pymongo`.
+4. Execute the Python script to interact with MongoDB.
