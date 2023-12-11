@@ -40,7 +40,7 @@ Programs as part of the Database Management System Laboratory course in my 3rd y
 
 ### Instructions
 
-1. Open your MySQL database environment.
+1. Open your SQL database environment.
 2. Execute the SQL statements in the `exp(ProgramNumber).sql` file in the specified order.
 3. Make sure you have PyMongo installed: `pip install pymongo`.
 4. Execute the Python script to interact with MongoDB.
