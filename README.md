@@ -3,37 +3,37 @@ Programs as part of the Database Management System Laboratory course in my 3rd y
 
 ## Programs List
 
-1. [**Experiment 1**](#experiment-1)
+1. **Program 1**
     - **File:** [exp1.sql](./exp1.sql)
     - **Description:** Database setup and DML operations.
     - **Instructions:** Execute the SQL statements in the specified order.
 
-2. [**Experiment 2**](#experiment-2)
+2. **Program 2**
     - **File:** [exp2.sql](./exp2.sql)
     - **Description:** SQL queries for data retrieval.
     - **Instructions:** Run the SQL queries to retrieve information from the database.
 
-3. [**Experiment 3**](#experiment-3)
+3. **Program 3**
     - **File:** [exp3.sql](./exp3.sql)
     - **Description:** More SQL queries for advanced data retrieval.
     - **Instructions:** Execute the SQL statements to retrieve specific information.
 
-4. [**Experiment 4**](#experiment-4)
+4. **Program 4**
     - **File:** [exp4.sql](./exp4.sql)
     - **Description:** Aggregate functions and data analysis.
     - **Instructions:** Run SQL queries to perform aggregate functions on the data.
 
-5. [**Experiment 5**](#experiment-5)
+5. **Program 5**
     - **File:** [exp5.sql](./exp5.sql)
     - **Description:** Additional SQL queries and data updates.
     - **Instructions:** Execute SQL statements to retrieve, update, and modify data.
 
-6. [**Experiment 6**](#experiment-6)
+6. **Program 6**
     - **File:** [exp6.sql](./exp6.sql)
     - **Description:** Triggers for automatic actions on data events.
     - **Instructions:** Run SQL scripts to create triggers for specific events.
 
-7. [**Experiment 7**](#experiment-7)
+7. **Program 7**
     - **File:** [exp7.sql](./exp7.sql) and [exp7.py](./exp7.py)
     - **Description:** MongoDB with PyMongo - Insert and CRUD operations.
     - **Instructions:** Execute the Python script to interact with MongoDB.
