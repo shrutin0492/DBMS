@@ -34,7 +34,7 @@ Programs as part of the Database Management System Laboratory course in my 3rd y
     - **Instructions:** Run SQL scripts to create triggers for specific events.
 
 7. **Program 7**
-    - **File:** [exp7.sql](./exp7.sql) and [exp7.py](./exp7.py)
+    - **File:** [exp7.py](./exp7.py)
     - **Description:** MongoDB with PyMongo - Insert and CRUD operations.
     - **Instructions:** Execute the Python script to interact with MongoDB.
 
